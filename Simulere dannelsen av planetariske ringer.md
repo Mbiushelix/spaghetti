@@ -1,6 +1,6 @@
 En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående skole. 
 
-### Introduksjon: Planetariske ringer?
+## Introduksjon: Planetariske ringer?
 
 ![[Saturn.jpg]] **Bilde 1:** Nyeste bilde tatt av Saturn fra NASAs Hubble-romteleskop ([NASA](https://solarsystem.nasa.gov/resources/2490/saturns-rings-shine-in-hubble-portrait/?category=planets_saturn))
 
@@ -12,9 +12,7 @@ Antagelser for simuleringen:
 
 
 
-### Roche grensen
-
-### Gravitasjonskrefter 
+## Gravitasjonskrefter 
 Newtons gravitasjonslov $F_g = \gamma \frac{m_{1}m_2}{r^2}$ gjelder for en tredimensjonal verden. Ettersom denne essayen skal simulere galakser i en todimensjonal verden, må denne formen av gravitasjonsloven endres for å tilpasse behovet. 
 
 Følgelig blir den aktuelle gravitasjonsloven følgende: $F_g=\gamma \frac{m_{1}m_2}{r} = \gamma \frac{1}{r}$ .
@@ -47,7 +45,7 @@ float2 forceVector = {0,0};
 ```
 
 
-### Kollisjoner 
+## Kollisjoner 
 Vi fokuserer på to vilkårlige partikler A og B. Når avstanden mellom disse er mindre eller lik summen av radiiene til partiklene vil de kollidere. Da setter vi opp et koordinatsystem som tar utgangspunkt i kollisjonspunktet. Se bildet nedenfor: 
 ![[kollisjon.png]]
 **Figur 1:** Her er $\vec{n}$ og $\vec{t}$ vinkelrett på hverandre. Vektorene representerer henholdsvis normalvektoren og tangentvektoren. Fartsvektorene til partikkel A og B kan dekomponeres ut ifra disse to vektorene. 
@@ -93,6 +91,6 @@ for (int j = 0; j < particleAmount; j++)
 
 ![[Pasted image 20221213193122.png]]
 ![[Pasted image 20221213193318.png]]
-### Konklusjon
+## Konklusjon
 
 ![[movie_016.mp4]]
