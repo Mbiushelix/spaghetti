@@ -47,7 +47,7 @@ float2 forceVector = {0,0};
 
 ## Kollisjoner 
 Vi fokuserer på to vilkårlige partikler A og B. Når avstanden mellom disse er mindre eller lik summen av radiiene til partiklene vil de kollidere. Da setter vi opp et koordinatsystem som tar utgangspunkt i kollisjonspunktet. Se bildet nedenfor: 
-![[kollisjon.png]]
+![alt text](http://url/to/img.png)
 **Figur 1:** Her er $\vec{n}$ og $\vec{t}$ vinkelrett på hverandre. Vektorene representerer henholdsvis normalvektoren og tangentvektoren. Fartsvektorene til partikkel A og B kan dekomponeres ut ifra disse to vektorene. 
 
 Vi ser at $\vec{n} = \frac{\vec{r}}{r}$ (siden normalvektoren er parallell med $\vec{r}$). Videre, kan vi regne oss fram til at $\vec{t}=(-r_y, r_x)$ med vektorregning. Med disse enhetsvektorene dekomponerer vi $\vec{v}_{0,A}$ og $\vec{v}_{0,B}$ :
