@@ -49,7 +49,7 @@ float2 forceVector = {0,0};
 
 ## Kollisjoner 
 Vi fokuserer på to vilkårlige partikler A og B. Når avstanden mellom disse er mindre eller lik summen av radiiene til partiklene vil de kollidere. Da setter vi opp et koordinatsystem som tar utgangspunkt i kollisjonspunktet. Se bildet nedenfor: 
-
+![Contact List](/kollisjon.PNG "Contact List")
 <img src="/kollisjon.png" alt.../>
 
 <p align="center">
