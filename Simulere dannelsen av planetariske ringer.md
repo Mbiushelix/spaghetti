@@ -104,7 +104,7 @@ for (int j = 0; j < particleAmount; j++)
 <p align="center">
 <img src="https://imgpile.com/images/bLyVo4.gif" width="600"/>
 </p>
-![Image of Minion](https://github.com/Mbiushelix/spaghetti/blob/bb715a5beac34eff8d37eaf415349eb700b13650/Saturn.jpg)
+![Image of Minion](kollisjon.png)
 
 ## Konklusjon
 
