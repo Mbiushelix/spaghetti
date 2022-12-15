@@ -102,7 +102,7 @@ for (int j = 0; j < particleAmount; j++)
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/MmdHgHo2VLzH34yeIS/giphy.gif" width="368.5" height="200.5" />
+<img src="https://imgpile.com/images/bLyVo4.gif" width="600"/>
 </p>
 
 
