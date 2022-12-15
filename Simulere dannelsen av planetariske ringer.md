@@ -99,14 +99,13 @@ for (int j = 0; j < particleAmount; j++)
     }
 ```
 
-<iframe src="https://udeoslokommuneno-my.sharepoint.com/personal/yuvaa001_osloskolen_no/_layouts/15/embed.aspx?UniqueId=1b9e485d-e6dd-4c29-86a1-b17549b98126" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Spaghetti1.gif"></iframe>
 
-![](spagetti.gif)
 
-![[Pasted image 20221213192807.png]]
+<p align="center">
+<img src="https://media.giphy.com/media/MmdHgHo2VLzH34yeIS/giphy.gif" width="368.5" height="200.5" />
+</p>
 
-![[Pasted image 20221213193122.png]]
-![[Pasted image 20221213193318.png]]
+
 ## Konklusjon
 
 ![[movie_016.mp4]]
