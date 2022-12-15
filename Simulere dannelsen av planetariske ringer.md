@@ -104,7 +104,7 @@ for (int j = 0; j < particleAmount; j++)
 <p align="center">
 <img src="https://imgpile.com/images/bLyVo4.gif" width="600"/>
 </p>
-
+![Image of Minion](https://octodex.github.com/images/minion.png)
 
 ## Konklusjon
 
