@@ -7,7 +7,7 @@ En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående sk
 :memo: **Note:** dfgdfg
 <img src="kollisjon.png" width="200" height="100">
 
-
+df
 Antagelser for simuleringen: 
 - Alle partiklene har masse 1
 - Fysikken er tilpasset til to dimensjoner
