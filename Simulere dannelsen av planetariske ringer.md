@@ -4,7 +4,7 @@ En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående sk
 
 ![[Saturn.jpg]] **Bilde 1:** Nyeste bilde tatt av Saturn fra NASAs Hubble-romteleskop ([NASA](https://solarsystem.nasa.gov/resources/2490/saturns-rings-shine-in-hubble-portrait/?category=planets_saturn))
 
-
+:memo: **Note:** dfgdfg
 
 Antagelser for simuleringen: 
 - Alle partiklene har masse 1
