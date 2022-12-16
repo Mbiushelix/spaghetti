@@ -32,6 +32,13 @@ Ved å videre implementere dette får vi resultatet nedenfor. Fargen er en indik
 </p>
 
 
+----
+**Formel for $\vec{a}_k$ med den sentrale massens (M) infuens**
+
+$$\vec{a_k}=\vec{p_k}\frac{M}{|\vec{p_k}|^2}+\gamma\sum_{i=1}^{n}\frac{ \vec{p_e}}{\left | \vec{p_i}-\vec{p_k} \right |} $$
+
+---
+
 ``` HLSL
 float2 forceVector = {0,0};
     for (int i = 0; i < particleAmount; i++)
@@ -104,8 +111,10 @@ for (int j = 0; j < particleAmount; j++)
 <p align="center">
 <img src="https://imgpile.com/images/bLyVo4.gif" width="600"/>
 </p>
-![Image of Minion](kollisjon.png)
+![kollisjon](kollisjon.png)
 
 ## Konklusjon
 
-![[movie_016.mp4]]
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9IP2vSt5oe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
