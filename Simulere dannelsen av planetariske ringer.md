@@ -6,7 +6,7 @@ En computational essay av Yudhishtiran Vajeeston for Elvebakken videregående sk
 
 :memo: **Note:** dfgdfg
 <img src="kollisjon.png" width="200" height="100">
-
+<img src='kollisjon.png'></img>
 df
 Antagelser for simuleringen: 
 - Alle partiklene har masse 1
